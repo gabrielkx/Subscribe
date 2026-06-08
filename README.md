@@ -59,3 +59,6 @@ bundle exec rubocop
   if the input scope grows.
 - The parser regex in `ItemParser::ITEM_LINE_PATTERN` can also be extended if future
   examples introduce a different line format.
+
+  <img width="744" height="168" alt="image" src="https://github.com/user-attachments/assets/ea1a8ddf-8b4d-4749-bc0f-988902071530" />
+
